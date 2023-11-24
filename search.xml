@@ -21,12 +21,12 @@
 <h2 id="K8S-架構"><a href="#K8S-架構" class="headerlink" title="K8S 架構"></a>K8S 架構</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/../Images/2_k8s-pods.png"
+                     data-src="/../Images-Posts/2_k8s-pods.png"
                       alt="k8sPod"
                 ><br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/../Images/2_components-of-kubernetes.svg"
+                     data-src="/../Images-Posts/2_components-of-kubernetes.svg"
                       alt="k8sPod2"
                 ></p>
 <h2 id="什麼是-K8S"><a href="#什麼是-K8S" class="headerlink" title="什麼是 K8S"></a>什麼是 K8S</h2><p>Kubernetes 可以幫我們做到以下幾件事情：</p>
@@ -40,7 +40,7 @@
 <li><p>K8S 架構圖<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/../Images/2_k8s-arch-all.png"
+                     data-src="/../Images-Posts/2_k8s-arch-all.png"
                       alt="KinD_Arch"
                 ></p>
 </li>
@@ -96,7 +96,7 @@
 <li>Kind 架構圖<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/../Images/2-Kind-Arch.png"
+                     data-src="/../Images-Posts/2-Kind-Arch.png"
                       alt="KinD_Arch"
                 ></li>
 </ul>
