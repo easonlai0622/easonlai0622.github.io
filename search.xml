@@ -369,7 +369,8 @@
         <category>Basic</category>
       </categories>
       <tags>
-        <tag>MicroService, MessageQueue</tag>
+        <tag>MicroService</tag>
+        <tag>MessageQueue</tag>
       </tags>
   </entry>
 </search>
